@@ -4,6 +4,8 @@ A simple weather app that fetches real-time weather data using the OpenWeatherMa
 
 ## Live Preview
 Click here: https://m-mustafa512.github.io/Weather-App-/
+![Weather App Screenshot](images/screenshot.png)
+
 
 ## Features
 - City-based weather search
